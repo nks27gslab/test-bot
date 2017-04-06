@@ -1,15 +1,24 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "description": "Hello world bot",
+  "main": "app.js",
   "dependencies": {
     "botbuilder": "^3.7.0",
     "restify": "^4.3.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nks27gslab/test-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nks27gslab/test-bot/issues"
+  },
+  "homepage": "https://github.com/nks27gslab/test-bot#readme"
 }
