@@ -1,6 +1,7 @@
 {
   "name": "bot",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Hello world bot",
   "main": "app.js",
   "dependencies": {
@@ -14,6 +15,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nks27gslab/test-bot.git"
+=======
+  "description": "",
+  "main": "abc.js",
+  "scripts": {
+    "start": "node abc"
+>>>>>>> 34c00a9cb4f044e2e8f0bc45dc7d3d69dbeb8718
   },
   "author": "",
   "license": "ISC",
